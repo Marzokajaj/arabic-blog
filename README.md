@@ -173,6 +173,21 @@ This project was created to practice:
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login Page](docs/screenshots/login.png)
+
+### Posts List
+![Posts List](docs/screenshots/posts.png)
+
+### Create Post
+![Create Post](docs/screenshots/create-post.png)
+
+### Database List
+![Users Management](docs/screenshots/database.png)
+
+
 ## Author
 
 Marzok Ajaj
