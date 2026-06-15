@@ -176,16 +176,16 @@ This project was created to practice:
 ## Screenshots
 
 ### Login Page
-![Login Page](docs/screenshots/login.png)
+![Login Page](docs/screenshots/login.jpg)
 
 ### Posts List
-![Posts List](docs/screenshots/posts.png)
+![Posts List](docs/screenshots/posts.jpg)
 
 ### Create Post
-![Create Post](docs/screenshots/create-post.png)
+![Create Post](docs/screenshots/create-post.jpg)
 
 ### Database List
-![Users Management](docs/screenshots/database.png)
+![Users Management](docs/screenshots/database.jpg)
 
 
 ## Author
