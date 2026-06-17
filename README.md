@@ -76,8 +76,7 @@ routes/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/arabic-blog.git
-```
+https://github.com/Marzokajaj/arabic-blog.git```
 
 Move to the project directory:
 
@@ -130,19 +129,6 @@ Compile frontend assets:
 ```bash
 npm run dev
 ```
-
----
-
-## Screenshots
-
-Add screenshots here after uploading the project.
-
-Example:
-
-- Login Page
-- Posts List
-- Create Post Form
-- User Management Page
 
 ---
 
